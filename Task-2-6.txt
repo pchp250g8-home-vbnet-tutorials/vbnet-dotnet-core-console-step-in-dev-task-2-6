@@ -1,0 +1,11 @@
+According to legend, the digital root of a number is found by
+summing its digits: add all its digits, if the result is not a single-
+digit number, repeat until one digit remains. A positive integer N is
+given. Print its digital root. Example: 9875->9+8+7+5 = 29-> 2+9 =
+11->1+1 = 2 -> answer 2
+
+По легенде, сила числа - это его цифровой корень:
+складываем все цифры, если получилось не однозначное
+число - повторяем, пока не останется одна цифра. Дано целое
+положительное число N. Выведи его цифровой корень.
+Пример: 9875 - 9+8+7+5 = 29 - 2+9 = 11 - 1+1 = 2 - ответ 2
